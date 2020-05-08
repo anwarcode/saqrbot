@@ -1,0 +1,14 @@
+{
+  "color": 16777215,
+  "prefix": "orl.",
+  "reactions":
+  {
+    "fortnite": "Fortnite Player",
+    "csgo": "CS:GO Player",
+    "apex": "APEX Player",
+    "gtav": "GTA V Player",
+    "pubg": "PUBG Player",
+    "r6s": "R6S Player",
+    "lol": "LOL Player"
+  }
+}

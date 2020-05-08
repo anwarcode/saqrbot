@@ -1,0 +1,19 @@
+{
+  "name": "ufcesports",
+  "version": "1.0.0",
+  "description": "Discord bot",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "discord.js": "^11.5.1",
+    "express": "^4.16.4",
+    "lowdb": "^1.0.0"
+  },
+  "engines": {
+    "node": "9.x"
+  },
+  "license": "MIT",
+  "requires": true,
+  "lockfileVersion": 1
+}
